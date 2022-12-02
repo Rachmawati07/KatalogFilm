@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<!-- Bagian untuk menampilkan warna berdasarkan kode warna-->
+<!-- 2. Warna-->
+<!-- Bagian untuk menampilkan warna berdasarkan kode warna
+     - Masing-masing color mempunyai name yang berbeda
+-->
 <resources>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#535253</color>
